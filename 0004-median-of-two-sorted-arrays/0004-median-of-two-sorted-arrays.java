@@ -10,6 +10,8 @@ class Solution {
         
         int i = 0, j = 0, count = 0, current = 0, previous = 0;
         
+        
+        // marge 2 arrays 
         while (count <= medianPos) {
             previous = current;
             
